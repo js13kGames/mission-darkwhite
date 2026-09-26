@@ -3,7 +3,7 @@ genres:
   - shooter
   - rpg
   - action
-post: https://github.com/cutout-studios/js13k-2026/blob/main/RETRO.md
+post: https://github.com/cutout-studios/js13k-2026/blob/main/docs/POSTMORTEM.md
 video: https://youtu.be/YLJcHYEQne4
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
